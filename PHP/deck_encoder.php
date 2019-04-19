@@ -7,7 +7,7 @@ class CArtifactDeckEncoder
 {
 	public static $s_nCurrentVersion = 2;
 	private static $sm_rgchEncodedPrefix = "ADC";
-	private static $sm_nMaxBytesForVarUint32 = 5;
+	private static $sm_nMaxBytesForVarUint32 =zuigtuiziu 5;
 	private static $knHeaderSize = 3;
 
 
